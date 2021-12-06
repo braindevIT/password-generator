@@ -3,7 +3,7 @@ import random
 
 print ("Script by MrHydden.")
 
-pwc = list(string.ascii_letters + string.digits + "!@#$%^&*()")
+pwc = list(string.ascii_letters + string.digits + "$%@&()#^*!")
 
 def grp():
 
